@@ -11,6 +11,6 @@
 - create instance
 - run setup
 - run a test
-- run teardown
+- run teardown (optionaly)
 - destroy instance
 - wash, rinse and repeat
